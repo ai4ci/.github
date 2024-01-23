@@ -1,6 +1,3 @@
-# AI for Collective Intelligence (AI4CI)
-A UKRI AI Research Hub
-
 ## Our Vision
 To address society’s most pressing challenges we must be able to reliably engineer important new kinds of Collective Intelligence:
 
